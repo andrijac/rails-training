@@ -18,3 +18,9 @@ arr[0..2] = 1,2,3
 
 print arr
 puts "\n"
+
+def returnvals
+	return 1,2,3,4
+end
+
+print returnvals
